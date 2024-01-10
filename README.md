@@ -2,6 +2,4 @@
 
 First comment
 
-test branch change
-
-new commit on GitHub
+This is a change on newbranch
